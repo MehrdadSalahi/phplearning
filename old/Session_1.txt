@@ -1,0 +1,89 @@
+﻿جلسه اول آموزش زبان برنامه نویسی PHP
+- معرفی
+	راسموس لردورلف در سال 1994 
+	1995 رسمی انتشار پیدا کرد.
+	PHP (Personal Home Pages)
+	     Hypertext Preprocessor
+
+از لحاظ ساختاری بسیار شبیه زبان C 
+
+- مفهوم بک اند و فرانت اند
+	ServerSide	سمت سرور (بک اند)
+		PHP
+		Java
+		ASP.NET
+		Python
+		Ruby
+		...
+	ClientSide	سمت کلاینت (فرانت اند)
+		HTML
+		CSS
+		JavaScript
+		jQuery
+		vue.js
+		angular.js
+		...
+
+- ابزارهای لازم برای راه اندازی و کدنویسی PHP
+	WebServer(Server)
+		Linux
+		   Apache
+		   Ngnix
+
+		Windows
+		   Xampp (زمپ)
+		   Wampp (ومپ)
+
+	IDE
+	   PHPStorm
+	   NetBeans
+	   Zend Studio
+	   Notepad++
+	   Notepad
+
+	Browser
+	   Google Chrome
+	   FireFox
+	   IE		
+
+- نصب XAMPP
+	C:\Xampp
+	C:\Xampp\htdocs		فایلها و پروژه های Php در این مسیر قرار می گیرن
+
+- قوانین ابتدایی کدهای PHP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
